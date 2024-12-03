@@ -1,16 +1,14 @@
-## Hi there 👋
+# Greetings, I'm Sharisa 💜
 
-<!--
-**GiftedCherry/GiftedCherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href= "https://linkedin.com/in/sharisa-cherry-805335294"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the0badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+I am currently in the learning stages of Cybersecurity and are interested in identifying breaches/hacks in the healthcare industry before they occur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Objective
+My passion for technology has led me to a new interest in Cybersecurity. There are several roles that interest me with the Cyber Threat Analyst being one of them.
+
+# Skills
+
+### Tools
+
+## Projects
